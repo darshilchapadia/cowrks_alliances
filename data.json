@@ -1,0 +1,1642 @@
+{
+    "alliances": [
+        {
+            "id": 46,
+            "short_description": " Slay it out at SLY Granny!",
+            "full_description": "<p>Designed like a Granny's House, this new hotspot in Indiranagar is where all the party starts and ends. Its restored spaces an staircases are sure gona give you good enough vibes through the day and night to satisfy your craving soul.</p>\n<p>Cowrks and Sly Granny brings to you 15% discount on F&amp;B so you can have a ball of a time.</p>\n<p>Now does that not call for a partyyyy?</p>\n<p>&nbsp;</p>",
+            "redeem_details": "<p>Flash your Cowrks ID to avail the discount. As simple as that.</p>\n<p>Reach out to <a title=\"email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a> for group bookings above 10 people for even more fancy offers!</p>",
+            "company": "SLY Granny",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/slyGranny_46.png",
+            "start_date": "2017-12-29",
+            "end_date": "2018-12-10",
+            "category": {
+                "id": 8,
+                "name": "Food & Beverages"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "short_description": "25% on Prototyping, and flat 20% on all our services.",
+            "full_description": "<p>Codewave was founded with a vision to build beautiful apps with reliable technology, for the web and mobile helping brands create an impact online. Our company has built more than 200 applications till date, for more than 15 countries for diverse industries like healthcare, education, energy and others bringing a global impact. We also won the Red Herring Top 100 Asia Award for the year 2015. Some of our customers include 3M, Blue Star, Cappillary, Runnr, Helios, and you could be next!</p><p><a href=\"https://codewave.com/startup/\" class=\"external-link\" rel=\"nofollow\" title=\"Follow link\">https://codewave.com/startup/</a> <br>\n<a href=\"https://codewave.com/\" class=\"external-link\" rel=\"nofollow\" title=\"Follow link\">https://codewave.com/</a> </p>",
+            "redeem_details": "<p>Simple- Send an email to&nbsp;<a href=\"mailto:alliances@cowrks.com\">alliances@cowrks.com</a></p>",
+            "company": "Codewave",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/allianceLogos/codewave.png",
+            "start_date": "2017-08-22",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 4,
+                "name": "Design & Technology"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "short_description": "Why own and suffer, Just rent and rejoice!",
+            "full_description": "<p>We often buy stuff which we dont need for a long term and keep it for no use. What a waste of money, time and effort and not to forget the the value of the product.</p>\n<p>Say cheese to Rentsher, online market place to rent almost anything that you would require on a daily basis and give it back. Sounds good? Be it your kids Bday party celebration props, or surprise your Girlfriend with a chocolate fountain or gift your man a 5D camera for his Biker trip with the boys, all can be rented. At an affordable cost, period.</p>\n<p>For more info log into <a title=\"Website\" href=\"https://www.rentsher.com/\" target=\"_blank\" rel=\"noopener\">Rentsher</a></p>\n<p>Cowrks and Rentsher brings to you a 10% discount on the rentsher.com website specially curated for Cowrks members.</p>",
+            "redeem_details": "<p>send email to <a title=\"email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a> with the list of items you wish to rent and relax!</p>",
+            "company": "Rentsher",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/New Logo plain-01 1080 590_30.png",
+            "start_date": "2017-09-20",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 19,
+                "name": "Services"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "short_description": "Move over Virtual Reality, Get a Virtual CTO!",
+            "full_description": "<p>Business often comes into a tangle when it comes to IT infrastructure and spends, not to mention having a full time paid CTO when you are a bootstrapped start up. And of course you can&rsquo;t have your IT guy perform a role of a CTO, so what can you do? Be brilliant, opt for a Virtual CTO and cut costs drastically.</p>\n<p>It is noted that businesses having a Virtual CTO has an edge with respect to out of the box strategies, cutting down on full time salary costs by operating remotely to get best of the best at all times and a whole gamut of flexibility to scale your business.</p>\n<p>&nbsp;&nbsp;Vijay Vaidhyanathan, a serial entrepreneur with over 25+ years of experiences with products &amp; services companies such as oracle, Yahoo!, ebay, PwC, cognizant and founder of 2 exciting start-ups with diverse technology and business expertise is helping start-ups succeed in their tumultuous journey. &nbsp;</p>\n<p>Wait not. Get Virtual, be real!</p>",
+            "redeem_details": "<p>Email <a title=\"Email.\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a> to set up a personlised meeting to discuss strategies.</p>",
+            "company": "Npedia Technologies",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/npedia_28.png",
+            "start_date": "2017-09-19",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 19,
+                "name": "Services"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "short_description": "Planning an outstation trip with your loved ones?",
+            "full_description": "<p><span id=\"docs-internal-guid-f6ee885e-8807-4bd8-4528-f7cfcccbca30\">GOZO - &lsquo;India&rsquo;s leader in outstation travel&rsquo; is now helping you slash your inter-city road travel bill by a whopping 25% when compared to other transportation services. If that wasn&rsquo;t enough, exclusively for CoWrks members, GOZO is giving away a special discount coupon to help you save more.</span></p>\n<p>Gozo offers 10% Discount to Cowrks Members or a Max of Rs 200/Trip.</p>",
+            "redeem_details": "<p>Login to <a title=\"Gozo cabs\" href=\"https://www.gozocabs.com/\" target=\"_blank\" rel=\"noopener\">Gozo</a>&nbsp;, use the code&nbsp;<span style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\">GOZO4CWRK to make use of the offer. Start Vrooooming!</span></p>",
+            "company": "Gozo Cabs",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/allianceLogos/gozo.png",
+            "start_date": "2017-07-28",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 9,
+                "name": "Transportation"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "short_description": "Keep calm & Bike.",
+            "full_description": "<p>Is the ruthless traffic hurting your travel time? No better way to commute, than the good ol' bikes. On-Track helps you Rent the uber cool Aprilia to speed through or the Avenger to cruise like a God. With no deposit, just pay monthly rent for the bikes from a fancy range which doesn't hurt your pockets.</p>\n<p><strong>Cowrks &amp; On-track brings to you the bikes you love starting from Rs 2750/Month &amp; get 3 litres of fuel for free as Cowrks members.</strong></p>\n<p>Speed through <a title=\"Website\" href=\"https://www.on-track.in/\" target=\"_blank\" rel=\"noopener\">On-Track</a>&nbsp;for more info.</p>\n<p>Enjoy the art of biking!</p>",
+            "redeem_details": "<p>To subscribe email <a title=\"email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a></p>",
+            "company": "On-Track",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/ontrack_68.png",
+            "start_date": "2018-04-02",
+            "end_date": "2018-11-21",
+            "category": {
+                "id": 9,
+                "name": "Transportation"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "short_description": "Laptops, Desktops and many more!",
+            "full_description": "<p>Give your employees the best systems in the market. Cut down your hardware costs with discounted pricing from Marcellus, whos been solving the hardware cluster issues for many organisations.</p>\n<p>Buy Apple, Dell, HP, Lenovo at great prices specially curated for you and top it with examplary service and support.</p>\n<p><strong>Cowrks and Marcellus brings to you discounts of more than 10%.&nbsp;</strong></p>",
+            "redeem_details": "<p>Email <a title=\"email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a> with requirements for the best quote.</p>",
+            "company": "Marcellus",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/Marcellus_64.png",
+            "start_date": "2018-03-23",
+            "end_date": "2018-11-29",
+            "category": {
+                "id": 22,
+                "name": "It Hardware"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "short_description": "Who doesn't love their car?  Make way for Cartisan, shower even more love!",
+            "full_description": "<p>Not sure what is wrong with your car? Confused where to take your car for service? Fret not, Cartisan is here to assist you at your door step! Yes, dont bother getting out in the traffic.</p>\n<p>&nbsp;Cartisan is an online service market place for cars and provide services ranging from cleaning, mechanical repairs and periodic maintenance, tinkering and painting, accessories etc to simplify the experience of maintaining cars, with transparency and convenience, by bringing our services to your doorstep. For more info log into <a title=\"Website\" href=\"http://cartisan.in/\" target=\"_blank\" rel=\"noopener\">Cartisan</a></p>\n<p>Cowrks in association with Cartisan gives cowrks members Rs 300/- discount on every service that you require.&nbsp;</p>\n<p>Download the cartisan app &amp; start Vrooming!</p>",
+            "redeem_details": "<p>Send email to <a title=\"Email Id\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a> to procure the unique coupon code for your service.</p>",
+            "company": "Cartisan",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/cartisan_27.png",
+            "start_date": "2017-09-19",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 19,
+                "name": "Services"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "short_description": "Get an 80% Discount for the first 3 months, and a 50% Discount from the 4th to the 12th month.",
+            "full_description": "<p>\niPresso is a marketing automation tool used to distribute content and communication on multiple channels through one dashboard. iPresso further accelerates your marketing campaigns by allowing you to track and monitor website visitors. The high-level functionalities of this tool include contact behaviour analysis, lead scoring and segmentation, email marketing and automation, social media marketing, ROI and conversion analysis etc.</p>\n\n<p>Benefits to CoWrks Members:</p>\n\n<p>On an Annual Subscription, regardless of the tier members choose from our packages would get:<br>\n80% Discount on our services for the first 3 months.<br>\n50% Discount from the 4th to the 12th Month.</p>\n\n<p>For detailed feature insight, visit <a href=\"http://ipresso.com/ipresso-product-tour\" class=\"external-link\" rel=\"nofollow\" title=\"Follow link\">http://ipresso.com/ipresso-product-tour</a><br>\nFor pricing and details about the Express Edition, visit <a href=\"https://ipresso.com/pricing\" class=\"external-link\" rel=\"nofollow\" title=\"Follow link\">https://ipresso.com/pricing</a></p>\n            </div>",
+            "redeem_details": "<p>Simple- Send an email to alliances@cowrks.com</p>",
+            "company": "iPresso",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/allianceLogos/iPressi.png",
+            "start_date": "2017-08-22",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 2,
+                "name": "Digital Marketing"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 87,
+            "short_description": "Lets make Samosa Cool!\n",
+            "full_description": "<div>Gorge on 10 different varieties of samosa including Gourmet options of Corn and cheese, Mac and Cheese, Barbeque chicken samosa, Thai Curry Chicken Samosa.</div>\n<div>Be it a small treat for a job well done or a big celebration for an achievement, treat your team to our delectable Samosa Party Treat Boxes. Build your own box menu from a choice of items and just wait for our boxes to be delivered to your doorstep. Forget the hassle of heating, serving and cleaning up after your event coz Samosa party have it all covered.&nbsp;&nbsp;</div>\n<div>&nbsp;</div>\n<div>Check out their party menu- <a title=\"website\" href=\"http://store.samosaparty.co.in/\" target=\"_blank\" rel=\"noopener\">SamosaParty</a></div>\n<div>&nbsp;</div>\n<div><strong>Cowrks and Samosa Party is bringing 15% discount on orders above Rs2000 and 10% discount when you order 50boxes.</strong></div>\n<p>&nbsp;</p>",
+            "redeem_details": "<p>&nbsp;Call on 8884499888 or Get in touch with us.</p>",
+            "company": "Samosa Party",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/samosaParty_87.png",
+            "start_date": "2018-06-14",
+            "end_date": "2018-12-14",
+            "category": {
+                "id": 8,
+                "name": "Food & Beverages"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "short_description": "Do you know Punjabi's favorite word? No prizes for guessing- D H A B A ",
+            "full_description": "<p>You can take Punjabis out of Punjab, but not the Dhaba out of them.&nbsp;</p>\n<p>Born in the famed Claridges Hotel on Aurangzed road in Delhi, Dhaba (Estd 1986) is India's original Highway Eatery. Each dish is a story from the bylanes of Amritsar and others from Patiala bus stop. Try their Highway Tiffin or the Lunch bomb, we guarantee you wont miss out on the Punjabi swag all day every day.</p>\n<p>Cowrks members enjoys a discount of 15% on all their restaurants across Bangalore, Delhi, Chennai &amp; Hyderabad.</p>\n<p>We are sure you wont miss out on the stories the dishes has to offer!</p>",
+            "redeem_details": "<p>Flash your Cowrks ID for your discounts.</p>\n<p>Reach out to <a title=\"email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a> for more info.</p>",
+            "company": "D H A B A ",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/dhaba_47.png",
+            "start_date": "2017-12-29",
+            "end_date": "2018-12-11",
+            "category": {
+                "id": 8,
+                "name": "Food & Beverages"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "short_description": "IoT, Whats that?  Let HummingWave answer it for you!",
+            "full_description": "<p>AI, IoT Custom wearables are ruling the technology world and will be a force to reckon and everyone needs a strong partner to weather the storm. HummingWave technologies and team comes with immense expertise in the field of IoT, Cloud based development who can build complex systems quickly before you even realise it. They are a curious bunch about new technologies, agile development and handle large volumes with ease.&nbsp;</p>\n<p>For more info check out&nbsp;<a title=\"Website\" href=\"http://hummingwave.com/\" target=\"_blank\" rel=\"noopener\">HummingWave</a></p>\n<p>Cowrks and HummingWave together can help you with buiding your custom apps, wearable devices Etc at 20% discount.</p>\n<p>Now thats pretty cool, right?</p>",
+            "redeem_details": "<p>Send an email to <a title=\"Website\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a> to understand more and set up a personlized meeting.</p>",
+            "company": "HummingWave",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/hummingWave_32.png",
+            "start_date": "2017-09-28",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 4,
+                "name": "Design & Technology"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 90,
+            "short_description": "Get all your work done, in one place!",
+            "full_description": "<p>Todays workforce thrive on communication which happens faster and instantly. Bring your team together with the best messenger which helps you do more.</p>\n<p>Flock is one of the most used messengers which collaborates teams across. Conduct virtual meetings with video+audio calls. Integrate external apps and more.</p>\n<p>For more info check out <a title=\"Website\" href=\"https://flock.com/in/indexa/?utm_expid=.LFBQST0aQaifx6Us53Yu5A.1&amp;utm_referrer=https%3A%2F%2Fflock.com%2F\" target=\"_blank\" rel=\"noopener\">Flock</a></p>\n<p><strong>Cowrks and Flock brings to you 15% discount, so your team stays connected.</strong></p>",
+            "redeem_details": "<p>Get in touch with us to avail the discounts.</p>",
+            "company": "Flock",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/flock_90.png",
+            "start_date": "2018-06-26",
+            "end_date": "2018-11-28",
+            "category": {
+                "id": 18,
+                "name": "Saas"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "short_description": "Got food fetish? And a thing for health?",
+            "full_description": "<p>Good News is, you can actually eat healthy and gorge on good looking food. Now isnt that something that we all crave for?</p>\n<p>Fit Dish Fetish a Bangalore based vibrant start up is here to provide yummy food for your tummy also ensuring your pants aint getting tight. Believe me not, then we dare you check out their meal plans that offers you a wide range of variety while ensuring you stay fit throughout the day and sail through the horrendous traffics, boring meetings and spouse rants, if any that is!</p>\n<p>Cowrks in association with Fit Dish Fetish is giving you some exciting discounts to add value to your lunch and dinner. Because we care about your health!</p>",
+            "redeem_details": "<p>Use the below code-</p>\n<p>&nbsp;</p>\n<p>10% off USE CODE CW10 FOR</p>\n<p>10 &amp; 20 MEAL PLANS</p>\n<p>Write to <a title=\"Email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a> for more info.</p>\n<p>&nbsp;</p>",
+            "company": "Fit Dish Fetish",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/fitDishFetish_37.png",
+            "start_date": "2017-11-14",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 8,
+                "name": "Food & Beverages"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 89,
+            "short_description": "One Tap. Happy Customers.",
+            "full_description": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 10pt; font-family: Verdana; color: #0d0d0d; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Mobile Number is the native identity in markets like India and many such growth markets around the world! &nbsp;Phone Number identity is also a critical identity for verification across a spectrum of user journeys in digital and mobile products catering to emerging and developed markets alike.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 10pt; font-family: Verdana; color: #0d0d0d; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Truecaller SDK enables instantly to signup/ login/ verify/register users in 3</span><span style=\"font-size: 6pt; font-family: Verdana; color: #0d0d0d; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: super; white-space: pre-wrap;\">rd</span><span style=\"font-size: 10pt; font-family: Verdana; color: #0d0d0d; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\"> party mobile apps and web products via their verified mobile number-based identity on Truecaller, without the need of any cumbersome OTP(One Time Password) SMS based verification whatsoever! It is also an OTP less flow! </span></p>\n<p dir=\"ltr\"><strong id=\"docs-internal-guid-bae97a48-4ac5-5c54-44ac-7420c2200e60\" style=\"font-weight: normal;\">&nbsp;</strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 10pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Cowrks and Truecaller join hands to bring this to you at No cost. Yes you read that right.</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">&nbsp;</p>\n<p dir=\"ltr\">&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 10pt; font-family: Verdana; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">250+ leading digital brands and startups in India like Grofers, 1mg, OYO, FreshMenu, Zoomcar, Voonik, MagicBricks, IndiaMart, Housejoy, Lendingkart, BankBazaar, PVR Cinemas and many more, are already leveraging Truecaller SDK across their mobile apps and web based products across use cases for frictionless user on-boarding or phone number verification or in checkout flows! In turn driving further user growth in a more secured and trusted manner.</span></p>",
+            "redeem_details": "<p>Get in touch with us to understand more.</p>",
+            "company": "Truecaller SDK",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/truecallerSDK_89.png",
+            "start_date": "2018-06-22",
+            "end_date": "2018-11-29",
+            "category": {
+                "id": 4,
+                "name": "Design & Technology"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "short_description": "Play with your Food! That's what Mamagoto means, I am serious!",
+            "full_description": "<p>You've eaten Buffet. How about Antibuffet?</p>\n<p>In a world of stale, premade non customized buffets, Mamagoto, the stylish PAN Asian cafe, gives you live wokstation, Asian salad station, Live Grill, Soups and dumplings all prepared by&nbsp; chef right in front of your gleaming eyes. Sounds and looks kool right?Also enjoy their exclusive alchoholic and non alchoholic juices to keep you refreshed, so drink up!</p>\n<p>Cowrks &amp; Mamagoto brings to you 15% discount on dining all day all long.</p>\n<p>Come to Mama!</p>",
+            "redeem_details": "<p>Flash your Cowrks ID at Mamagto locations at Bangalore, Mumbai, Chennai, Delhi, Hyderabad &amp; Kolkata to avail the discounts.</p>\n<p>For more info reach out to <a title=\"Email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a></p>",
+            "company": "Mamagoto",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/mamagoto_48.png",
+            "start_date": "2017-12-29",
+            "end_date": "2018-12-10",
+            "category": {
+                "id": 8,
+                "name": "Food & Beverages"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "short_description": "Who's your Paddy?",
+            "full_description": "<p>Irish&nbsp;Today,&nbsp;Hungover&nbsp;Tomorrow a popular slogan Team Irish flaunts on the tees, is an evident fact cause of the collection of beers available and an extensive bar menu which is going to get you high.&nbsp;Also known to popularize the \"Pub Food\" with their wide range of&nbsp;food&nbsp;offerings, you'll be never leaving home hungry.</p>\n<p>Known for its energetic vibe, friendly service and a great offering, The Irish House has something in store for everyone &ndash; the sports fanatics, the party goers, the rock music listeners, the food lovers and the beer enthusiasts. With a large screen for football match screenings, one of the largest bars, super extensive bar menu, special food menus, and events like St. Patrick&rsquo;s, Oktoberfest, Live Rock Bands, Karaoke, Games, and much more, you will always find your fix here.</p>\n<p>Cowrks and The Irish House also gives you 15% discount at Ecoworld &amp; Whitefield location. Cheers to high spirited Irish experience at this awesome neighbourhood pub.</p>\n<p>&nbsp;</p>\n<p>One more reason to frequent Irish house?</p>",
+            "redeem_details": "<p>Flash your Cowrks ID at Irish House, Eco world and Whitefield to avail the 15% discount.</p>\n<p>For more info email <a title=\"Email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a></p>\n<p>* Discounts applicable only in Bangalore locations. We will announce as soon as it is made available for other locations.</p>",
+            "company": "The Irish House",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/theIrishHouse_51.png",
+            "start_date": "2018-02-05",
+            "end_date": "2018-12-30",
+            "category": {
+                "id": 8,
+                "name": "Food & Beverages"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "short_description": "Feeling Fatigue? Low Energy? Consult Heal Clinic!",
+            "full_description": "<p>Dont let the workload hamper your stress level. Regain all your lost energy.</p>\n<p>Healclinic helps you boost your energy and manage your stress better with their Reiki healing, Chakra Balancing, Tarot reading, Fun with Yoga, Handwriting analysis and more. All of this helps you understand yourself better, diffferentiate your strengths and weakness and derive solutions to your problems.</p>\n<p>You are about to experience all of the above in a whole new level.&nbsp;</p>\n<p>Wait no more, as Cowrks and Healclinic gives 10% discount to Cowrks members.</p>\n<p>Time to reload yourself.</p>",
+            "redeem_details": "<p>Email <a title=\"email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a> to know more and set up an appointment</p>",
+            "company": "HealClinic",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/healclinic_53.png",
+            "start_date": "2018-02-14",
+            "end_date": "2018-12-11",
+            "category": {
+                "id": 20,
+                "name": "Spa And Wellness"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "short_description": "Lets talk Cloud Computing?",
+            "full_description": "<p>Amazon Web Services- worlds leading cloud computing platform is offering AWS activate benefits worth $1000 to the start ups.</p>",
+            "redeem_details": "<p dir=\"ltr\">TC-</p>\n<p dir=\"ltr\">1. $1000 in AWS credits valid for 1 years starting from the incubation date.</p>\n<p dir=\"ltr\">2. AWS Business Support for 2 months</p>\n<p dir=\"ltr\">3. Free access to the AWS Essentials 1 day web-based (normally ~$600/course), plus 8 tokens for self-paced labs (normally ~$30/lab)</p>\n<p dir=\"ltr\">4. Have not availed AWS credits before and have raised only 1 funding round(Series/Seed)</p>\n<p dir=\"ltr\">&nbsp;For more information and to Avail the credits- Email &nbsp;alliances@cowrks.com</p>\n<p>&nbsp;</p>",
+            "company": "Amazon Web Services Activate",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/allianceLogos/aws.png",
+            "start_date": "2017-07-28",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 1,
+                "name": "Cloud Storage"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "short_description": "Innovate with IoT",
+            "full_description": "<p>Grow your business on International standards. Excel with IoT.</p>\n<p>Cowrks and Vodafone Business Services have joined hands to help our members to get easy and free access to Vodafone's IoT platform for 6 billing cycles. Gain visibility, manageability and have control over your assets at ease.</p>",
+            "redeem_details": "<p>Access <a title=\"Website\" href=\"https://www.vodafone.in/business/start-up/ready-start-ups-kit\" target=\"_blank\" rel=\"noopener\">Vodafone startup ready kit</a>&nbsp;to register.</p>\n<p>For more information write to <a title=\"email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a></p>",
+            "company": "Vodafone Business Services",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/VodafoneBusinessServices_34.png",
+            "start_date": "2017-10-11",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 4,
+                "name": "Design & Technology"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "short_description": "Cloud on a platter.",
+            "full_description": "<p>Train through code labs, classroom style.</p>\n<p>Google Cloud platform is all your start up needed.</p>\n<p>It is designed to help startups build and scale. The platform makes early stage startups tick, and the success for the next decade is fuelled by the companies which are yet to be born. So get booted and take pride in your inventions and scale the startup on your hands.</p>\n<p>Cowrks and Google Cloud are here to give you $3000 credits for a year on the cloud platform.</p>",
+            "redeem_details": "<p>Reach out to <a title=\"Email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a> for more info.</p>",
+            "company": "Google Cloud",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/googleCloud_54.png",
+            "start_date": "2018-02-27",
+            "end_date": "2018-12-10",
+            "category": {
+                "id": 1,
+                "name": "Cloud Storage"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "short_description": "Want some Cloud apps?",
+            "full_description": "<p>Stand a chance to get the best cloud apps and manage your business with world class Vodafone cloudstore applications. Cowrks members can now get to use Vodafone CRM, Mobile workforce essentials and G-Suite. Oh, did we tell you all this is also coming to you at 1 month Free trial.</p>\n<p>Go ahead, Jump the Queue!</p>",
+            "redeem_details": "<p>Access&nbsp;<a title=\"Website\" href=\"https://www.vodafone.in/business/start-up/ready-start-ups-kit\" target=\"_blank\" rel=\"noopener\">Vodafone startup ready kit</a>&nbsp;to register.</p>\n<p>For more information write to&nbsp;<a title=\"email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a></p>",
+            "company": "Vodafone Business Services",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/VodafoneBusinessServices_35.png",
+            "start_date": "2017-10-11",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 1,
+                "name": "Cloud Storage"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "short_description": "Who let the Fox out?",
+            "full_description": "<p>Want to have great time at Bengaluru's latest hotspot?</p>\n<p>Think no more. Foxtrot is where you should head.</p>\n<p>Foxtrot is the new waterhole in marathalli which is a house of subculture for millenials &amp; all folks of all shapes and sizes who wants to party. There's something for the dancer in you and singer you aspire to be. Their Ladies nights are promising with happy ladies and karoake nights full of songs. Not to forget their Instagram worthy delicious food. Join the madness, as this is about to get a whole lotta foxy!</p>\n<p>Cowrks and Foxtrot gleamingly give you 15% discount on all F&amp;B.</p>\n<p>Oh Fox!</p>",
+            "redeem_details": "<p>Flash your Cowrks ID before you call for the bill to avail the discounts.</p>\n<p>Fore exclusive discounts for group bookings reach out to&nbsp;<a title=\"email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a></p>",
+            "company": "Foxtrot",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/foxtrotGastropub_55.png",
+            "start_date": "2018-02-27",
+            "end_date": "2018-12-10",
+            "category": {
+                "id": 8,
+                "name": "Food & Beverages"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 93,
+            "short_description": "The App to Cure it All. Prescription medicines at 29% off ; Free delivery on bills over Rs.100. ",
+            "full_description": "<p dir=\"ltr\"><strong>The App to Cure it All!</strong></p>\n<p dir=\"ltr\">Get just what the doctor prescribed, right at your doorstep - thanks to the MedsIndia app!</p>\n<p dir=\"ltr\">Cowrks &amp; MedsIndia brings to you exciting offers on online purchases of your medicines, healthcare products, OTC and many more products to choose from.&nbsp;</p>\n<p dir=\"ltr\">Use <strong>coupon code MEDSINWRKS</strong> to order <strong>prescription medicines at 29% off </strong>and also enjoy 10%-30% off on healthcare products. What&rsquo;s more - get <strong>free delivery</strong> on bills over Rs. 100.&nbsp;&nbsp;</p>\n<p dir=\"ltr\">Download the MedsIndia <a href=\"https://www.medsindia.in/download-app\">app</a> or log on to <a href=\"https://www.medsindia.in/\" target=\"_blank\" rel=\"noopener\">www.medsindia.in</a> and take a chill pill!</p>\n<p dir=\"ltr\">&nbsp;</p>\n<p dir=\"ltr\">Available exclusively for our CoWrks Delhi community!</p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 11pt; font-family: 'Proxima Nova'; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">&nbsp;</span></p>",
+            "redeem_details": "<p>Use coupon code MEDSINWRKS&nbsp;</p>",
+            "company": "MedsIndia ",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/medsindia logo[1] (1)-01_93.jpg",
+            "start_date": "2018-07-30",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 20,
+                "name": "Spa And Wellness"
+            },
+            "locations": [
+                {
+                    "id": 3,
+                    "name": "Gurgaon"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "short_description": "India runs on Chai, So can Cowrks!",
+            "full_description": "<p>Fuel yourselves with wide range of Chai freshly made, served and delivered to your desk and top it with the yummy schezwan noodles or the legendary Indian samosas, all of this comes to you while you make your reports and send the never ending emails and wait for your chai point ninja come for your rescue and delight your taste buds and senses. Yup, chai does that to you.</p>\n<p>Now order, eat and drink to your hearts content as you get a Free Banana Cake on a minimum order of Rs.200/- especially curated for Cowrks members till october 10th. All you have to do is order it through the chai point app&nbsp;on&nbsp;<a title=\"App link\" href=\"https://play.google.com/store/apps/details?id=com.urbanpiper.chaipoint&amp;hl=en\" target=\"_blank\" rel=\"noopener\">android</a>&nbsp;or <a title=\"app link\" href=\"https://itunes.apple.com/in/app/chai-point/id838742149?mt=8\" target=\"_blank\" rel=\"noopener\">ios</a>&nbsp;and savour yourself some amazing snacks and wide variety of chai and end with a Banana Cake!</p>\n<p>Go Bananas on the offer!</p>",
+            "redeem_details": "<p>Use the Coupon code-&nbsp;CWBCK on the app and wait for the order to be delivered or take a stroll towards Chai point, and tada! your order is ready.</p>",
+            "company": "Chai Point",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/chaiPoint_31.png",
+            "start_date": "2017-09-25",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 8,
+                "name": "Food & Beverages"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "short_description": "Grow with Programmatic Marketing!",
+            "full_description": "<p>The truth is everybody needs marketing. You need marketing and your product needs marketing. Now enrich your product and customer user experience with Vodafone's programmatic marketing and Vodafone API and be sure to connect with customers with targeted marketing.</p>\n<p>Cowrks members can get 50,000 free marketing SMS's to begin with.</p>\n<p>Now isnt that a whole lot?</p>",
+            "redeem_details": "<p>Access&nbsp;<a title=\"Website\" href=\"https://www.vodafone.in/business/start-up/ready-start-ups-kit\" target=\"_blank\" rel=\"noopener\">Vodafone startup ready kit</a>&nbsp;to register.</p>\n<p>For more information write to&nbsp;<a title=\"email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a></p>",
+            "company": "Vodafone Business Services",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/VodafoneBusinessServices_36.png",
+            "start_date": "2017-10-11",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 2,
+                "name": "Digital Marketing"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "short_description": "Who doesn't judge a book by its cover?",
+            "full_description": "<p>Time to revamp yourself and World of WoW wants everyone to don their best visual resume.&nbsp;</p>\n<p>World Of WOW is an Image and Fitness consulting online Studio providing Customised Lifestyle services. They&nbsp;provide assured 10kgs Weight Loss based on just clean eating (no superfoods nor supplements), Result Oriented Personalised Nutrition, Diabetic Consultation, Weekly.</p>\n<p>Workout Routines, Personal Styling and Grooming, Personality Enhancement and Appearance Management, all of this and many more for the new YOU!</p>\n<p>They also do face to face consultations for the few of their services, exclusive for Cowrks members. For more info log into&nbsp;<a title=\"Wesbite\" href=\"http://www.worldofwowstudio.com/\" target=\"_blank\" rel=\"noopener\">World Of WoW</a></p>\n<p>Cowrks and World of WoW brings to you 25% discount on all their services for Cowrks members. Yayy!</p>\n<p>Bring out the Chic and Dapper in you!</p>",
+            "redeem_details": "<p>To avail please call +919740074709 or email&nbsp;&nbsp;<a title=\"email\" href=\"mailto:worldofwowstdio@gmail.com\" target=\"_blank\" rel=\"noopener\">worldofwowstdio@gmail.com</a></p>\n<p>For more info reach out to <a title=\"email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a></p>",
+            "company": "World Of WoW",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/worldOfWow_56.png",
+            "start_date": "2018-03-02",
+            "end_date": "2018-11-28",
+            "category": {
+                "id": 20,
+                "name": "Spa And Wellness"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "short_description": "First Eat. Then do everything else.",
+            "full_description": "<p>Do you wanna gobble a GodFatheresque Sandwich? Try the Don Corleone Cajun chicken sandwich and feel like a Don. Twigly brings to you the best of the sandwiches, Salads, Grilled chicken to the NCR region easier and faster. From Pizzas to Pastas, Falafel to Hummus all of it is mouthwatering as it looks.</p>\n<p>Check out <a title=\"website\" href=\"https://www.twigly.in/\" target=\"_blank\" rel=\"noopener\">Twigly</a> for more info or simply download the app.</p>\n<p><strong>Cowrks and Twigly brings to you a 10% discount on all your orders.</strong></p>\n<p>Time for some good food rush!</p>",
+            "redeem_details": "<p>Use Coupon Code COWRKS10 to avail the 10% discount.</p>\n<p>For more info email <a title=\"Email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a></p>",
+            "company": "Twigly",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/twigly_66.png",
+            "start_date": "2018-03-30",
+            "end_date": "2018-10-24",
+            "category": {
+                "id": 8,
+                "name": "Food & Beverages"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "short_description": "Do you want to save Crores every year? No Kidding!",
+            "full_description": "<p>Did you know that email is costing your organization Crores of Rupees in unproductive person-hours every year?&nbsp;</p>\n<p>The Solution?</p>\n<p>FewClix (for Outlook) eliminates the damage that email causes to employee productivity, by enabling employees to find anything (emails, attachments, calendar entries and contacts) in their Outlook email in seconds, saving them up to 30 minutes every day and saving your organization Crores of Rupees (in thousands of unproductive person-hours) every year. In addition, FewClix increases your ROI on email investments up to 6x every year!</p>\n<p>Key Capabilities-</p>\n<p>- Find any email</p>\n<p>- Eliminate Clutter</p>\n<p>- One click search</p>\n<p>And to top it, Cowrks members gets a fabulous discount of 25% on their annual packages.</p>",
+            "redeem_details": "<p>Visit <a title=\"Website\" href=\"https://www.fewclix.com/\" target=\"_blank\" rel=\"noopener\">Fewclix</a>&nbsp;for more info.</p>\n<p>To set up a demo and avail services, send an email to <a title=\"Email ID\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a></p>",
+            "company": "FewClix",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/fewClix_18.png",
+            "start_date": "2017-08-07",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 4,
+                "name": "Design & Technology"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "short_description": "Is the so called month end hurting you? Hurt not, Cash+ is here for your rescue!",
+            "full_description": "<p>We all go through the pain of hurdling through the month end praying we scrape through the horrendous days of the month and get through to the most awaited day of the month which ofcourse is, no prizes for guessing- The Salary Day!&nbsp;</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Wait no more as Cash+ is here to delight the batchelors and individuals of the Cowrks Community, not to feel the pain of month ends, Cash crunches etc. With their easy to access app, and loan amount upto 50k and quick 15/30 days pay back options goes easy on your wallets.</p>\n<p>Cowrks members also gets free credit report from Experian for downloading the app and get Rs200 cashback for all the loans approved.</p>\n<p>Let money do the talking on Month end's, for a change.</p>",
+            "redeem_details": "<p>Send an email to <a title=\"Email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a> to understand more on the offer and payback options and interest rates.</p>",
+            "company": "Cash+",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/cashPlus_33.png",
+            "start_date": "2017-10-06",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 10,
+                "name": "Fintech"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "short_description": "Be a Millenial Traveller! Get a whopping 25%-35% Dicount!",
+            "full_description": "<p>Designed to compliment your neighborhood with stellar features and dynamic service, optimised for compfort, efficiency and convenience, Oyo Townhouses uses a mix of tech and talent to create a smooth, comfortable and secure stay. Now thats all you probably wanted, right? Do you want more? Yes, there is more to your stay. Oyo townhouse is your Hotel, Home, Store and a Cafe.&nbsp;</p>\n<p>Check out <a title=\"Website\" href=\"http://www.oyotownhouse.com/\" target=\"_blank\" rel=\"noopener\">Oyo Townhouse</a>&nbsp;for more info.</p>\n<p><strong>Cowrks and Oyo Townhouses brings to you a whopping 25%-35% discounts on your bookings.&nbsp;</strong></p>\n<p>Stay awesome!</p>",
+            "redeem_details": "<p>Send an email to <a title=\"Email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com&nbsp;</a> with your booking requirements.</p>",
+            "company": "Oyo Townhouse",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/oyoRooms_57.png",
+            "start_date": "2018-03-05",
+            "end_date": "2018-11-19",
+            "category": {
+                "id": 5,
+                "name": "Hospitality"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "short_description": "Money comes, Money Goes. Don't you wanna know how and where?",
+            "full_description": "<p>If you are reading this, means you are concerned about money and expenses.</p>\n<p>Finly is your one stop solution for all your business expense needs. It provides Businesses with tools and data that can help them delve deeper into your spends and make better strategic decisions, consequently removing all the expense management hurdles as the business scales up.&nbsp;</p>\n<p><strong>Finly has got hands on:</strong></p>\n<p>Expense Management</p>\n<p>Fund Disbursement System</p>\n<p>Automated Payment Solutions</p>\n<p>And so can you! Cowrks has partnered with Finly to get you 20% Discount on all their products. So, cash in!&nbsp;</p>\n<p>For more info visit <a title=\"Website\" href=\"https://www.finly.io/\">Finly</a></p>\n<p>&nbsp;</p>",
+            "redeem_details": "<p>To set up personalised demos and avail the offer Email- <a title=\"Email ID\" href=\"mailto:alliances@cowrks.com\">alliances@cowrks.com</a></p>",
+            "company": "Finly",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/Finly_Logo_23.png",
+            "start_date": "2017-08-23",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 10,
+                "name": "Fintech"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "short_description": "Need Advice and Guidance for your Growth Story? Take it from the Gurus. FinGurus!",
+            "full_description": "<p>How about a company who can do all your back end work while you work on your work!</p>\n<p>Fingurus, a renowned team of advisors in India and abroad brings to you a plethora of services that you can imagine to run the business from A-Z. Entrust them to deliver on taxation to Accounting, CFO Services to Legal services, Incorporation to Company structuring &amp; Re-structuring they have left no leaves unturned.</p>\n<p>As a Cowrks member you get 15% discount on their <a title=\"Website\" href=\"http://fingurus.com/\" target=\"_blank\" rel=\"noopener\">Services</a></p>\n<p>So get started and avail specialist services.</p>",
+            "redeem_details": "<p>write to <a title=\"Email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a> with the list of services you are interested.</p>",
+            "company": "FinGurus",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/fingurus_39.png",
+            "start_date": "2017-11-22",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 10,
+                "name": "Fintech"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "short_description": "Sandwiches made in heaven. RIP in your mouth!",
+            "full_description": "<p>There are sandwiches and then there is Bueno Sandwiches. Made by artists and not chefs. Experience sandwiches like never before, curated by Michelin grade artisans who put create some of the best breads and ingredients to give you global flvours. From Bombay sandwich to quintessential peri peri chicken sandwich, Divine pastas to Jacket potatoes, youre in for a flavorful ride.</p>\n<p><strong>Cowrks and Bueno Sandwiches brings to you 25% discount on your food bill.</strong></p>\n<p>Visit your nearest <a title=\"Website\" href=\"https://www.buenosandwiches.com\" target=\"_blank\" rel=\"noopener\">Bueno Sandwiches</a>&nbsp;in Delhi-NCR soon!</p>\n<p>Time to go clubbing on Sandwiches?</p>",
+            "redeem_details": "<p>Flash your Cowrks ID before the bill to avail the discount.</p>\n<p>* Min Order Value- Rs.125</p>\n<p>For more info send email to <a title=\"email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a></p>",
+            "company": "Bueno Sandwiches",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/buenoSandwich_72.png",
+            "start_date": "2018-04-17",
+            "end_date": "2019-01-07",
+            "category": {
+                "id": 8,
+                "name": "Food & Beverages"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "short_description": "Avail $500 worth of Cloud credits from DigitalOcean.",
+            "full_description": "<p>Cloud Computing, Designed for Developers</p><p>DigitalOcean is the world' 2nd largest and fastest growing cloud computing platform focused on simplifying cloud infrastructure for software developers &amp; startups. The company is headquartered in New York City with 12 data centers across the world, with their latest datacenter being launched in Bangalore. The new generation of startups leverages their cloud infrastructure to rapidly deploy and scale their production environments and distributed applications.</p><p>As a company working out of CoWrks, you can avail $500 worth of Cloud credits from DigitalOcean.</p><p>Conditions:</p><ul class=\"alternate\" type=\"square\"><li>The credits will have a one-year lifespan, expiring beyond that point.</li><li>Individuals/Companies are only eligible for one credit, and cannot utilise multiple credits even if the individual/company uses multiple accounts.</li><li>These credits will be valid only for those individuals/companies who have not availed DigitalOcean credits earlier.</li></ul><p>For more details, visit <a href=\"https://www.digitalocean.com/hatch/\" class=\"external-link\"rel=\"nofollow\" title=\"Follow link\">https://www.digitalocean.com/hatch/</a></p>",
+            "redeem_details": "<p>Simple- Send an email to <a title=\"Email ID\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a></p>",
+            "company": "Digital Ocean",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/allianceLogos/digitalOcean.png",
+            "start_date": "2017-08-22",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 1,
+                "name": "Cloud Storage"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "short_description": "80% discount for the first 3 months starting at $14/month per license, and $34 thereafter.",
+            "full_description": "<p>Recruiz is a super-intelligent and efficient Applicant Tracking System to help you turn recruitment into a smooth ride with incredible results.<br>\nThe tracking, collaboration and monitoring needs of agencies and HR teams are different while using an applicant tracking system; a reason why Recruiz has two versions to suit the hiring needs of HR agencies and corporate HR teams. Both versions have all the features and functionalities you’ll need, and then some more for intelligent hiring.</p><p>Recruiz Tour - <a href=\"http://recruiz.com/product/\" class=\"external-link\" rel=\"nofollow\" title=\"Follow link\">http://recruiz.com/product/</a> <br>\nRecruiz Pricing - <a href=\"http://recruiz.com/pricing/\" class=\"external-link\" rel=\"nofollow\" title=\"Follow link\">http://recruiz.com/pricing/</a> </p>",
+            "redeem_details": "<p>To understand more send an email to alliances@cowrks.com</p>",
+            "company": "Recruiz",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/allianceLogos/recruiz.png",
+            "start_date": "2017-08-22",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 3,
+                "name": "HRM"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "short_description": "Your Gateway to a Great Hotel Experience .",
+            "full_description": "<p dir=\"ltr\">Treebo Hotels offers 25% discount off the Treebo Website for Cowrks Members exclusively.</p>\n<p dir=\"ltr\">Treebo Hotels (<a href=\"https://www.treebo.com/\">website</a>) is the new age tech enabled top brand of budget hotels in India. With 260+ properties across 60+ cities and 3200+ Corporates, Treebo is pioneering the change in the way Budget Hotels operate and are perceived in India. With an average TripAdvisor rating of 4 out of 5 and Booking.com rating of 7.44/10, we provide superior value for money experience to our customers consistently through 100% Quality guarantee, which encompass:</p>\n<p dir=\"ltr\">\"Assured Essentials, clean &amp; fresh room and 30 minutes Service Promise.*\"</p>\n<p dir=\"ltr\">Treebo for Business:</p>\n<p dir=\"ltr\">Treebo For Business is the Business wing of Treebo where we serve our B2B clients through special Corporate offerings. As a well established Corporate, I am sure travel of different levels of employees would incorporate a considerable part of your administration resources and expenses. This is where Treebo For Business comes into picture as we can help you with your Work based travel accommodations with attractive benefits. Some of them would be:</p>\n<p dir=\"ltr\">&nbsp; 1.Easy online booking platform for Corporate - Enjoy instant &nbsp;bookings and make &nbsp; payments on the go- Save your time from the hassles of calling,emailing,following up.</p>\n<p dir=\"ltr\">&nbsp; 2.Special Corporate Loyalty Program &lsquo;Treebute&rsquo; to reward our loyal Corporate base.</p>\n<p dir=\"ltr\">&nbsp; 3.Tailored Corporate packages with attractive discounts- Enjoy subsidised pricing with &nbsp; &nbsp;value for money services.</p>\n<p dir=\"ltr\">&nbsp; 4.Zero Cancellation charges up to 24 hours prior to check-in- We understand cancellation &nbsp; &nbsp;and modification can get inevitable and we provide you a seamless experience for the &nbsp;same.</p>\n<p dir=\"ltr\">&nbsp;5.Easy Monthly Invoicing options, credit period of 7 days from invoice date</p>\n<p dir=\"ltr\">&nbsp;6.Early Check-in and late Check-out on special request- We understand the demanding and &nbsp; often unpredictable schedule of a business travellers are more than happy to serve you!</p>\n<p dir=\"ltr\">&nbsp;7.Dedicated account manager as the single point of contact for all hotel bookings across &nbsp; &nbsp; &nbsp;India. Your personal aid to help you with all your scheduling, booking and tracking</p>\n<p dir=\"ltr\">&nbsp;8.Special Add on Services on request- Be it laptop chargers, cab bookings or meals, we are &nbsp;happy to customise our offerings as per your requirements</p>",
+            "redeem_details": "<p>Kindly send an email to <a title=\"Email ID\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a> with the dates and Treebo property in mind and a dedicated Treebo Account Manager will be at your service immediately.</p>",
+            "company": "Treebo Hotels",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/allianceLogos/treebo.png",
+            "start_date": "2017-08-01",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 5,
+                "name": "Hospitality"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "short_description": "Courtyard by Marriott, Bengaluru – Outer Ring Road",
+            "full_description": "<p>Deluxe Room: INR 7500 / 8000 (Single / Double) plus applicable taxes per night</p>\n<p>Inclusions: Buffet breakfast, shared office transfers to Ecoworld, 10% discount on food &amp; beverage, access to the fitness centre and pool.</p>\n<p>Executive Deluxe Room: INR 9000 / 9500 (Single / Double) plus applicable taxes per night<br /> Inclusions: Buffet breakfast, access to the Executive lounge, shared office transfers to Ecoworld, 10%<br /> discount on food &amp; beverage, access to the fitness centre and pool.</p>\n<p><br /> <u>Banqueting Rates:</u></p>\n<p>A special rate of INR 1400+taxes for lunch per person.<br /> Dinner rates will be at INR 1600+taxes per person.</p>",
+            "redeem_details": "<p>Simple- Send an email to&nbsp;<a href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a></p>",
+            "company": "Marriott Hotels",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/allianceLogos/courtyard.png",
+            "start_date": "2017-05-23",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 5,
+                "name": "Hospitality"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "short_description": "Love Food? How about Beer? Here's a reason to love them more!",
+            "full_description": "<p>Hey there!</p>\n<p>You've got yourself a fairy godmother! You have been hand-picked by ​CoWrks and the team at Quirk to experience something new and wildly interesting!</p>\n<p>What do I get? You get a brand new Quirk Card for Re.1 for the first month and Rs 199/month post that. Specially Curated for Cowrks Members!</p>\n<p>Woohoo! Wait...What's that? The Quirk Card is Bangalore's new urban essential, a city pass that makes your meals happier, your nights drunker and your parties jazzier! How, you ask? By giving you a flat 25% Off on any Food &amp; Alcohol bills at the 65 of the best pubs &amp; restaurants in Bangalore. At all times of the day and all days of the week. That's how!</p>\n<p>Some of the top restaurants you can use your Quirk Card at are The Fatty Bao, Big Brewsky, Monkey Bar, Loft38, Barleyz, The Hole in the Wall Cafe and many more!</p>\n<p>The Quirk card has over ​6​000 active users who save an average of Rs. 1200 per month while eating out. Users also get additional lifestyle perks worth over Rs. 5000 from &nbsp;Freshmenu, Gaana, Raw Pressery, Zoomcar and Jean-Claude Biguine Salons and Spas - for free!</p>\n<p>Woah! How do I use this? &nbsp;Simply present your card to the restaurant before your bill is made to avail of the discount. You can also download our app on Android or iOS &nbsp;to use your digital Quirk Card. Check out <a class=\"external-link\" title=\"Follow link\" href=\"https://www.lequirk.com\" target=\"_blank\" rel=\"nofollow noopener\">https://www.lequirk.com</a> for more details!</p>\n<p>And? Once your Quirk Card is activated, you will also receive a few interesting emails from the team at Quirk, letting you know about your Quirk Card Usage, any new Restaurant partners that come on board, your Perks code, the best posts from LeQuirk Blog that month and more.</p>\n<p>What happens after it expires? We know you'll love the Quirk Card and come back for more! You can simply renew your card or get a new one here!</p>",
+            "redeem_details": "<p>Simple- Send an email to <a title=\"Email ID\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a></p>",
+            "company": "Quirk Card",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/allianceLogos/quirk.png",
+            "start_date": "2017-05-20",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 8,
+                "name": "Food & Beverages"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "short_description": "Fairfield by Marriott, Bengaluru – Outer Ring Road:",
+            "full_description": "<p>Deluxe Room: INR 5000 / 5500 (Single / Double) plus applicable taxes per night<br /> Inclusions: Buffet breakfast, shared office transfers to Ecoworld, 10% discount on food &amp; <br />beverage, access to the fitness centre and pool.</p>\n<ul style=\"list-style-type: disc;\">Bookings for 07 nights and above will get complimentary 02 pieces laundry per night (on a non-cumulative basis and no dry cleaning)</ul>\n<p>&nbsp;</p>\n<p><u>F&amp;B Rates:</u>&nbsp;A special rate of INR 1400+taxes for lunch per person<br /> Dinner rates will be at INR 1600+taxes per person.</p>",
+            "redeem_details": "<p>Simple- Send an email to <a href=\"mailto:alliances@cowrks.com\">alliances@cowrks.com</a></p>",
+            "company": "Marriott Hotels",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/allianceLogos/fairfield.png",
+            "start_date": "2017-05-23",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 5,
+                "name": "Hospitality"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "short_description": "FOODIES'S DELIGHT",
+            "full_description": "<p>Luchtime? No problem, we've got great discount for our members! Eat your hearts contents with offers just as delicious and fresh as freshmenus offerings.</p>\n<p>Enjoy 30% discount on the first order you place with Freshmenu and 15% discount on subsequent orders. Miimum order of Rs. 300! So go ahead and start ordering Yummy dishes!</p>",
+            "redeem_details": "<p>Visit&nbsp;<a title=\"Freshmenu\" href=\"https://freshmenu.com/\" target=\"_blank\" rel=\"noopener\">Freshmenu</a>&nbsp;and use Code FIRST30 for your first order with Freshmenu for 30% discount. Use FMCOWRKS for 15% discount post first order.</p>\n<p>*TC- Minimum order of Rs300. This offer cannot be availed on already discounted dishes.</p>",
+            "company": "FreshMenu",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/allianceLogos/freshmenu.png",
+            "start_date": "2017-07-21",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 8,
+                "name": "Food & Beverages"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "short_description": "LOOK LIKE A DIVA, DON'T SPEND LIKE ONE!\n\n",
+            "full_description": "<p>You are at the Hottest place for the coolest trends!</p>\n<p>Zapyle is your ultimate fashion destination for millenial style- from fast high street fashion, to premium International brands and ethnic designer wear for the women who likes to keep up. Zapyle in association with Cowrks is bringing fashion affordable for members by giving you a Flat Rs700 off, on all their products. So what you are you waiting for, Hurry up and start trending!</p>",
+            "redeem_details": "<p>To avail the offer log into&nbsp;<a title=\"Highstreet\" href=\"https://www.zapyle.com/collection/high-street-fashion\" target=\"_blank\" rel=\"noopener\">Zapyle</a>&nbsp;and use the coupon code ZAPYLE700 and start being a DIVA again!</p>",
+            "company": "Zapyle",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/allianceLogos/zapyle.png",
+            "start_date": "2017-07-21",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 7,
+                "name": "Fashion"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "short_description": "Hop, skip, Jump to the next Pub & Restaurant.",
+            "full_description": "<p>Not everybody could afford a personal assistant to help you for your table bookings. Eazydiner helps you reserve a table of your choice for your special occassions at the finest restaurants and pubs in your city. Get 1+1 offers, Free deserts and upto 50% discounts, you'll be rest assured with the best deals in town.</p>\n<p><strong>Cowrks &amp; Eazydiner brings to you 100Eazy points when you reserve a table and also get 10% Cash back to your Eazy wallet for every visit.</strong></p>\n<p>Bon Appetit!</p>\n<p>&nbsp;</p>",
+            "redeem_details": "<p>Use Coupon Code EDWORK10 to get 10% cash back (Maximum of Rs 200)</p>\n<p>Log into <a title=\"Website\" href=\"http://www.eazydiner.com\" target=\"_blank\" rel=\"noopener\">EazyDiner</a> to book a table and redeem your wallet points and cashback.</p>",
+            "company": "Eazydiner",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/easyDiner_70.png",
+            "start_date": "2018-04-11",
+            "end_date": "2019-01-07",
+            "category": {
+                "id": 8,
+                "name": "Food & Beverages"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "short_description": "Rent a home close to work? No problemo!\n\nCowrks in association with Nestaway, brings you the best homes in town at affordable prices, so go save!",
+            "full_description": "<p dir=\"ltr\">CoWrks in association with Nestaway is making fully furnished affordable homes more affordable.Now, rent the perfect home, no questions asked.</p>\n<p dir=\"ltr\">What you get -</p>\n<p dir=\"ltr\">A discount of Rs.1000 on the first month's rent.Interaction with a Key Account Manager to address queries.</p>\n<p dir=\"ltr\">Exclusive offers from the likes of Zoomcar and Grofers.</p>",
+            "redeem_details": "<p>Need a Home? Write to us at <a href=\"mailto:alliances@cowrks.com\">alliances@cowrks.com</a> and a dedicated Nestway personnel will reach out to you in 24-48hrs. Assured!</p>",
+            "company": "Nestaway",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/NewLogos/nestaway.png",
+            "start_date": "2017-06-19",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 5,
+                "name": "Hospitality"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "short_description": "Platter of technologies. At 15% discount.",
+            "full_description": "<p>Freshworks offers a plethora of SaaS products for your everyday work. Customer support, Sales, Marketing, IT Management, Hiring and many more are the wide range of&nbsp; softwares that comes to you in a platter. Make work easy and fresh with individual solutions for respective teams and make it seamless with Freshworks suite of products.</p>\n<p><strong>Cowrks &amp; Freshworks brings to you 15% discount on all their products.</strong></p>\n<p>Check out <a title=\"website\" href=\"https://www.freshworks.com/\" target=\"_blank\" rel=\"noopener\">Freshworks</a> for more info.</p>",
+            "redeem_details": "<p>Email <a title=\"email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a> to avail the discount.</p>",
+            "company": "Freshworks",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/freshworks_77.png",
+            "start_date": "2018-05-18",
+            "end_date": "2019-03-16",
+            "category": {
+                "id": 18,
+                "name": "Saas"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "short_description": "Humanizing E- Commerce Experience. Yes that's true!",
+            "full_description": "<p>Betaout is an all-in-one E-Commerce solution, creating a unified user profile and then helping with cross channel commuication and personalization through the marketing channels.</p>\n<p>With over 400 million user profiles and 2.5 billion+ events, Betaout gives you a upper hand over Email, app push, web push, text, onsite and Facebook in single unified customer profiling giving you a single view of the user enabling the marketer with smart segmentation on a real time basis.</p>\n<p>Cowrks members gets exclusive 30% discounts on the various plans that is being offered to get your E-Commerce marketing on the right path.</p>",
+            "redeem_details": "<p>Email <a title=\"Email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a> for more info/Demo/Pricing.</p>",
+            "company": "Betaout",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/rsz_betaout_blue__logo_22.png",
+            "start_date": "2017-08-21",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 2,
+                "name": "Digital Marketing"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "short_description": "Accounts team - How about some peace of mind when your employees travel?",
+            "full_description": "<p dir=\"ltr\">Happay is a prepaid VISA card for business expenses; the USP being that it can be completely controlled using a web or mobile interface. You can issue cards to all employees who are spending on company&rsquo;s behalf and then control exactly where your money is spent by defining spending policies, setting spend limits and configuring notifications. Here&rsquo;s the best part, you also get real time visibility into all expenses, even before the employees have submitted expense reports.</p>\n<p dir=\"ltr\">For the employees, the whole hassle of requesting for advance repeatedly, maintaining receipts, remembering to record all expenses and spending hours on creating expense reports is eliminated. All the transactions done using the HappayCard (accepted at all VISA POS online and offline) are automatically recorded in the Happay mobile app. They can click a picture of the receipt and tag it to the respective expense, select expenses based on trips and submit them for approval to the manager.&nbsp;</p>\n<p dir=\"ltr\">Finally, all the expenses can be seamlessly imported into the accounting software, therefore reducing manual data entry and the possibility of human error.</p>\n<p dir=\"ltr\">&nbsp;</p>\n<p dir=\"ltr\">Kindly look at the explainer <a href=\"https://www.youtube.com/watch?v=Ny-b5ODIKtc\">video</a>.</p>\n<p dir=\"ltr\">Happay exclusive offer to Cowrks members-</p>\n<p dir=\"ltr\">Happay offers 1 month free Trial for Cowrks members&nbsp;</p>\n<p dir=\"ltr\">15% off Happay Commercials.</p>",
+            "redeem_details": "<p>To avail discounts and set up a Trial/Demo- Email <a title=\"Email ID\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com&nbsp;</a></p>",
+            "company": "Happay",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/allianceLogos/happay.png",
+            "start_date": "2017-08-01",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 10,
+                "name": "Fintech"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "short_description": "Watch a Blockbuster.",
+            "full_description": "<p>Cowrks in association with PVR Cinemas, Bengaluru is bringing to you curated offerings for the movie nights with your team. Be it in an AUDI, GOLD Class or IMAX, we got youre back for your First Day First Shows, Special screenings, F&amp;B discounts all created for you while you cheer your favorite Super star or a Super Hero!</p>",
+            "redeem_details": "<p>Relive the movie magic by sending an email - <a title=\"Email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a></p>",
+            "company": "PVR Cinemas",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/PVR_21.png",
+            "start_date": "2017-08-17",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 13,
+                "name": "Entertainment"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "short_description": "Learn Online Coding. No Installs. No setups.",
+            "full_description": "<p>Progate is an online coding learning platform used by 300,000+ users and 200+ companies around the world. Learn coding through intuitive slides and focus on fundamental of modern programming skills. Be a champion on python, Javascript, Ruby on Rails. Bravo!</p>\n<p>For more info log into <a title=\"Website\" href=\"https://progate.com/\" target=\"_blank\" rel=\"noopener\">Progate</a></p>\n<p>Cowrks and Progate offers you 33% discount on their subscriptions.</p>\n<p>Time to decode Coding!</p>",
+            "redeem_details": "<p>Please access the link <a title=\"Website\" href=\"https://progate.com/?utm_source=cowrks\" target=\"_blank\" rel=\"noopener\">Cowrks Offer</a></p>\n<p>For more info send an email to <a title=\"Email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a></p>",
+            "company": "Progate",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/Progate_61.png",
+            "start_date": "2018-03-13",
+            "end_date": "2018-12-10",
+            "category": {
+                "id": 15,
+                "name": "E-Learning"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "short_description": "Home Cooked Food. Healthy. Lovely.",
+            "full_description": "<p>The love for Home cooked food is endless. Good news is Masala Box helps you deal with your cravings. From the traditional thalis to mouth watering Non veg dishes, North India to South they got your plate covered with delicious home cooked food prepared by home makers across the town. Their food is affordable, tasty, healthy, all that you expect to make you feel at home.</p>\n<p>Cowrks and Masala Box brings to you Free meal on 5meal and 10 meal subscription and 2 meal free on a 20 meal subscription.</p>\n<p>Are we satisfied?</p>",
+            "redeem_details": "<p>Login to <a title=\"website\" href=\"https://www.masalabox.com\" target=\"_blank\" rel=\"noopener\">Masala Box</a>&nbsp;and&nbsp;Use Coupon code&nbsp;COWRKSSM717 to avail the free meal for your subscriptions.</p>\n<p>For more info email <a title=\"email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a></p>\n<p>&nbsp;&nbsp;</p>",
+            "company": "Masala Box",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/masalaBox_60.png",
+            "start_date": "2018-03-12",
+            "end_date": "2018-11-28",
+            "category": {
+                "id": 8,
+                "name": "Food & Beverages"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "short_description": "Rent Uber cool homes, the easy way! ",
+            "full_description": "<p>Finding a place in the Hustle and Bustle of Delhi is never easy. Not anymore.&nbsp;</p>\n<p>Coho is your solution to all your agony when it comes to renting a beautiful place that suits your equation. From fancy Villas, to a batchelor pad Coho allows you to rent rooms with like minded people. Play pool or take a dip in the pool, anytime, all at affordable costs.</p>\n<p><strong>Cowrks and Coho brings to you 10% discount on every month's rent for a minimum 6month term and 15% discount on every months rent on a 1 year term.</strong></p>\n<p>Choose from 1500 beds across Gurgaon, Delhi &amp; Noida at <a title=\"Website\" href=\"http://www.coho.in\" target=\"_blank\" rel=\"noopener\">Coho</a></p>\n<p>Time to move into a kool new space?</p>",
+            "redeem_details": "<p>Email <a title=\"email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a> to avail the discounts.</p>",
+            "company": "Coho",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/coho_71.png",
+            "start_date": "2018-04-13",
+            "end_date": "2019-01-14",
+            "category": {
+                "id": 5,
+                "name": "Hospitality"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "short_description": "How about a one stop shop for your Business?",
+            "full_description": "<p>Zoho, a home grown brand, built in our back yard, known globally for a suite of products it builds to make the assembly of your business as smooth as it can get. Be it a powerful CRM, a GST ready accounting software or a ticketing help desk sofware, you name it and Zoho's got it.</p>\n<p>For more info log into <a title=\"Website\" href=\"https://www.zoho.com/\" target=\"_blank\" rel=\"noopener\">Zoho</a></p>\n<p>Cowrks partners with Zoho to give you a 10% cashback on Zoho's product line. So go ahead and say Zohoooooooo!&nbsp;</p>",
+            "redeem_details": "<p>Email <a title=\"Email ID\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a> with the list of zoho products that you are interested.</p>",
+            "company": "Zoho",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/zoho_26.png",
+            "start_date": "2017-09-18",
+            "end_date": "2018-12-30",
+            "category": {
+                "id": 18,
+                "name": "Saas"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "short_description": "Money can't buy Happiness, Go Kayaking, Its the same.",
+            "full_description": "<p>Bring together your team and convert them into warriors. Hone their leadership skills in Human Foosball, test their endurance level on Bubble Soccer and see how they survive in Rocket Ejector. All this to get your adrenaline pumped. After all this and many more team building activities, head to the waters for a good round of Kayaking to relax your mind.Perfect way to end a Team Outing?</p>\n<p>Area 83 is located on beautiful locales on the outskirts, far from the cry of City life. Take your team, family, friends &amp; loved ones for a wonderful time and be sure to make plans to go again.</p>\n<p>Area 83 and Cowrks has curated some mind blowing stuff &amp; packages for you to take your team out and have a ball, Literally!</p>\n<p>&nbsp;</p>",
+            "redeem_details": "<p>Email <a title=\"email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a> for the packages curated and avail exclusive deals.</p>",
+            "company": "Area 83",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/area83_69.png",
+            "start_date": "2018-04-10",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 23,
+                "name": "Travel & Adventure"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "short_description": "Gift your Body a massage. More Often!",
+            "full_description": "<p>Your body is your temple, Retain it like one. Living a fast pace life leaves a sore body which need timely rejuvenation. Pamper your self with some aromatic massages and enjoy the senses. All of this, eyes closed.</p>\n<p>Gomalon Spa-Bangalore, helps you find the right spas at the right time to make your massages more convenient. They have a network of 20+spas which includes the likes of Bodykraft, Tiara and many more.&nbsp;</p>\n<p>Cowrks members gets a Rs150 discount on spa bookings. Go to Gomalon&nbsp;<a title=\"Website\" href=\"https://www.gomalon.com/bangalore/home\" target=\"_blank\" rel=\"noopener\">wesbite</a>&nbsp; or download&nbsp;&nbsp;<a title=\"App link\" href=\"https://play.google.com/store/apps/details?id=gomalon.io.com.gomalon&amp;hl=en\" target=\"_blank\" rel=\"noopener\">Android</a>&nbsp;to complete your bookings.</p>\n<p>&nbsp;</p>",
+            "redeem_details": "<p>USE CODE- GOWORKS to get a Rs150 discount on the spa booking.</p>\n<p>Reach out to <a title=\"email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a> for more info.</p>",
+            "company": "Gomalon",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/gomalon_44.png",
+            "start_date": "2017-12-15",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 20,
+                "name": "Spa And Wellness"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "short_description": "Send Courier with Doorstep Pick up. Now at 25% Discount.",
+            "full_description": "<p>No time to Courier the items you wish to? No worries,&nbsp; carry your package to your workspace and have them collected from a team of professionals who gives you reliable and affordable service, all of this online!</p>\n<p>Dependo and team are here to solve all your Courier issues with on time delivery, convenient pick up timings and affordable prices.&nbsp;</p>\n<p><strong>Cowrks and Dependo offers a 25% discount on your Couriers.</strong></p>\n<p>&nbsp;</p>",
+            "redeem_details": "<p>Use the coupon code COWRKS25 on their website <a title=\"website\" href=\"http://dependo.com/\" target=\"_blank\" rel=\"noopener\">Dependo</a>&nbsp;to avail the discounts.</p>",
+            "company": "Dependo",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/dependo_78.png",
+            "start_date": "2018-05-22",
+            "end_date": "2018-10-25",
+            "category": {
+                "id": 19,
+                "name": "Services"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "short_description": "Filing Taxes can be Taxing. But not anymore.",
+            "full_description": "<p>Clear Tax is India's leading tax solution platform helping Income Tax filing, GST Filing, support and Tax education. By adopting modern &amp; digital means, filing taxes are going to be simple and easy. So breathe easy!</p>\n<p>For more info log into <a title=\"website\" href=\"https://cleartax.in/\" target=\"_blank\" rel=\"noopener\">ClearTax</a></p>\n<p>Cowrks in association with ClearTax brings to our members a 10% discount on their products and services.</p>\n<p>File Taxes. File easy.</p>",
+            "redeem_details": "<p>Email <a title=\"Email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a> to claim your discounts and more information.</p>",
+            "company": "ClearTax",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/clearTax_29.png",
+            "start_date": "2017-09-20",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 10,
+                "name": "Fintech"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "short_description": "Account for your Accounting!",
+            "full_description": "<p>Specially Designed for Business Owners who want to keep their finances in order, Profitbooks is an online accounting platform that is just as thorough as it is to use.</p>\n<p dir=\"ltr\">Exclusively the Cowrks community, Profit books is offering a staggering 30% discount on their professional plan, along with free ulimited support.</p>\n<p dir=\"ltr\">Trusted by over 5000 users across the globe, ProfitBooks finds it&rsquo;s place on the recommendation list of leading Chartered Accountants.</p>\n<p dir=\"ltr\"><strong>With ProfitBooks you can</strong> -</p>\n<p dir=\"ltr\">1.Send Professional Estimates &amp; Invoices with a few clicks even when you are away</p>\n<p dir=\"ltr\">2.Track daily business expenses and know where you are spending the most</p>\n<p dir=\"ltr\">3.Manage your inventory and know top selling products or services</p>\n<p dir=\"ltr\">4.Save time during Tax filing with automatic tax calculations</p>\n<p dir=\"ltr\">5.Put control right in your hands with manual data entry</p>\n<p dir=\"ltr\">6.Import Bank Statements for Bank Reconciliation</p>\n<p dir=\"ltr\">7.Take informed decisions with over 45+ financial reports</p>\n<p dir=\"ltr\">&nbsp;</p>",
+            "redeem_details": "<p>For more information and to avail the services send an email to <a title=\"Email ID\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a></p>",
+            "company": "Profitbooks",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/allianceLogos/profitBooks.png",
+            "start_date": "2017-07-31",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 10,
+                "name": "Fintech"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "short_description": "Big things come in small Packages, Retainly software does just that by going easy on your wallet!",
+            "full_description": "<p>Retainly software is a marketing automation tool helping you drive your marketing efforts with ease by not burning your cash. Which means more to spend on marketing, better the business. Agree? Not? Try Retainly software and you will know what we referring . Please click&nbsp;<a title=\"Website\" href=\"https://retainly.co/\" target=\"_blank\" rel=\"noopener\">here</a>&nbsp;for a sneak peak into the Retainly world.</p>\n<p>Retainly Software offers $100 of free credits to Cowrks members to get started with their base pack and post which monthly plan starts as low as $19/month, Yes you saw that right, starts at $19/month*</p>",
+            "redeem_details": "<p>To set up a personalised Demo and avail the offer email <a title=\"email Id\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a></p>",
+            "company": "Retainly Software",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/retainly_16.png",
+            "start_date": "2017-08-02",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 2,
+                "name": "Digital Marketing"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "short_description": "We Cowork. How about we Car Pool? ",
+            "full_description": "<p>Did you know over 200,000 employees carpool in 6 different cities to cut pollution, reach faster and most importanty save cost!</p>\n<p>sRide Carpool is a peer to peer carpooling app that works with employees to provide a mobile platform to connect to do carpooling on a daily basis for HOME- OFFICE-HOME trip and help reduce traffic/pollution. We do not have any cabs or taxi and encourage users to utilize free car seats available with their colleagues / friends.</p>\n<p>All this comes to you at Rs3.5/km! Yayy, awesome savings rite? So go ahead and Car pool and network with your coworkers all day long!</p>",
+            "redeem_details": "<p>Download the Sride app from playstore/app store and start taking your rides.</p>\n<p>Interested to list your car and make some money while you commute?</p>\n<p>Send an email to <a title=\"email id\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a></p>",
+            "company": "S Ride",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/SRide_17.png",
+            "start_date": "2017-08-03",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 9,
+                "name": "Transportation"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "short_description": "Not sure where to head for your legal tussles? Don't worry we got you covered.\n\n\n",
+            "full_description": "<p><a title=\"Website\" href=\"http://www.jclex.com/\" target=\"_blank\" rel=\"noopener\">View Disclaimer</a></p>\n<p>Juris Corp, one of India's renowned law firm and its Advisors all there to back you up with their expertise in the areas of Mergers &amp; Acquisitions, Structure Finance, Banking &amp; Finance, Litigation, Capital Markets, Real Estate, E-commerce and many more. Over the years, they have been involved in a wide spectrum of transactions covering acquisition of Indian companies effected through global/international acquisitions, buy-out of joint venture partners, acquisitions financing etc. and have represented clients in various courts, tribunals and other forums covering a vide gamut of areas.&nbsp;Juris Corp takes great pride in the manner in which we contribute to changing mindsets and improving situations.&nbsp;</p>\n<p>Juris Corp has been consistently ranked in the top tiers over the years in Banking &amp; Finance, Capital Markets, Corporate M&amp;A, Dispute Resolution, Foreign Direct Investment, Real Estate, Private Equity, Securitisation &amp; Structured Finance and Taxation.</p>\n<p>&nbsp;Juris Corp specialises in the following areas:</p>\n<p>&nbsp; &nbsp;1. Corporate Commercial</p>\n<p>&nbsp; &nbsp;2. Contract Management</p>\n<p>&nbsp; &nbsp;3. Labour and Employment</p>\n<p>&nbsp; &nbsp;4. Start-up&rsquo;s</p>\n<p>&nbsp; &nbsp;5. Fintech</p>\n<p>&nbsp; &nbsp;6. Dispute Resolution and Arbitration</p>\n<p>&nbsp; &nbsp;7. Technology, Media and Telecommunications</p>\n<p>&nbsp; &nbsp;8. Private Equity</p>\n<p>&nbsp; &nbsp;9. Project Finance</p>\n<p>&nbsp; 10. Intellectual Property Rights</p>\n<p>&nbsp; 11. Statutory &amp; Regulatory Approvals</p>\n<p>&nbsp; 12. India Entry Options</p>\n<p>&nbsp; 13. Real Estate</p>\n<p>&nbsp;&nbsp; 14. M&amp;A</p>\n<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">Juris Corp has curated some exclusive offers to Cowrks members to ensure the legal tussles are handled seamlessy!</p>",
+            "redeem_details": "<p>Write to <a title=\"Email ID\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a> to understand the offers and set up a face to face meeting with the groups advisors.</p>",
+            "company": "Juris Corp",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/Juris_20.png",
+            "start_date": "2017-08-08",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 12,
+                "name": "Legal Services"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "short_description": "Do Business, instead of Paperwork!",
+            "full_description": "<p>With services ranging from Legal, Compliance, accounting across India &amp; abroad in 28 locations is no mean task.</p>\n<p>99Filings helps start ups and small businesses to focus purely on business and while rest of the stuff is managed by the folks at 99Filings. Isn't that a boon when you dont have to move a muscle to get things done ranging from Incorporation to Trademark, legal advisory to valuation, Phew the list goes on.</p>\n<p>Avail discounts upto 25% as a cowrks member. Cause Money matters!</p>\n<p>For more info log into <a title=\"website \" href=\"https://99filings.com/\" target=\"_blank\" rel=\"noopener\">99fiings</a></p>",
+            "redeem_details": "<p>To avail services and discounts, send an email to <a title=\"email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a></p>",
+            "company": "99Filings",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/99fillings_41.png",
+            "start_date": "2017-12-06",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 12,
+                "name": "Legal Services"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "short_description": "Dont Just Rock, Rock Hard!- 15% Discount",
+            "full_description": "<p dir=\"ltr\">Yaass! Hard Rock Cafe now gives you all the more reason to hang out with your friends and enjoy fabulous offers specially curated for Cowrks members.</p>\n<p dir=\"ltr\">Hard Rock Cafe with Cowrks brings to you 15% discount on regular dine in tables.</p>\n<p dir=\"ltr\">Exclusive to Cowrks members :</p>\n<p>15% discount on regular dine in tables. Discount on Food &amp; Beverage only. Not valid on retail &amp; tobacco.&nbsp;</p>\n<p dir=\"ltr\"><strong>Value Add on</strong>:</p>\n<p dir=\"ltr\">&nbsp;1.Come as a group of 4 and bill for more than INR 3000 and get a dessert on the house.</p>\n<p dir=\"ltr\">&nbsp;2.Come as a group of 10 and above and get one round of house shooters(Alcohol) for every guest.</p>\n<p dir=\"ltr\">&nbsp;3.Free entry on select band nights (When the entry ticket is INR 250, Cover charge will still apply)&nbsp;</p>\n<p dir=\"ltr\">*The 15% discount can be availed in conjunction with one of the value add-ons and not all of them. Discount on Food &amp; Beverage only. Not valid on retail &amp; tobacco.&nbsp;</p>",
+            "redeem_details": "<p>This offer is valid at Hard Rock locations of Bengaluru, Gurgaon, Mumbai, Delhi, Pune &amp; Hyderabad and don't forget to flash your Cowrks ID! Drink &amp; Party to the merry!</p>",
+            "company": "Hard Rock Cafe",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/HRC_19.png",
+            "start_date": "2017-08-08",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 8,
+                "name": "Food & Beverages"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "short_description": "Love the giver more than the gift. So Gift more, Get Love!",
+            "full_description": "<p>Aren't you bored of gifting the traditional vase and photo frames? Fancy something unique like pistol shaped pens or toilet golf? Or the gadgets that make yo go wow!</p>\n<p>Total Gift Solutions makes you go crazy with their baggage of goods that will make you want to buy all. Gift some yourself and your loved ones, reward your team,&nbsp; all affordably priced and uniquely curated just for the right moment!</p>\n<p>Cowrks and Total Gift solutions gives you 30% discount on the MRP just so you shop more!</p>\n<p>If this aint a reason to Gift, we dont know what is?</p>",
+            "redeem_details": "<p>To avail exclusive discounts and to see the product catalogue, email <a title=\"email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a></p>",
+            "company": "Total Gift Solutions",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/totalGiftSolutions_62.png",
+            "start_date": "2018-03-16",
+            "end_date": "2018-11-26",
+            "category": {
+                "id": 21,
+                "name": "Lifestyle & Gifting"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 85,
+            "short_description": "Funnel your leads the right way!\nAt 20% Discount.",
+            "full_description": "<p>Wondering how to get exclusive content, CRM Integration, Lead generation, and E-mail marketing for your business, along with a great cup of coffee? Look no where else!</p>\n<p><strong>Join the only apporoachable Hubspot Gold Partnered agency in Bangalore and avail flat 20% discount on Hubspot and a whole gamut of marketing services.</strong></p>\n<p>You won't just stick around, but you will thrive.</p>",
+            "redeem_details": "<p>For more queries email on <a title=\"email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a> or simply press Get in touch.</p>",
+            "company": "Transfunnel",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/transfunnel_85.png",
+            "start_date": "2018-06-12",
+            "end_date": "2019-05-31",
+            "category": {
+                "id": 2,
+                "name": "Digital Marketing"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "short_description": "There's nothing Sound can't heal! Head to a Sound Spa!",
+            "full_description": "<p>Who doesn't like to rejuvenate and replenish their senses after a tough week of work and get rid of the tiredness that pulls a plug on you which makes you seem like a potato on a Couch!</p>\n<p>Srikam Sound Spa, Indiranagar is offering one of a kind Spa experience with Sound using Tibetian bowls which touches all your senses.&nbsp;Sound is vibration that touches every part of our physical being. The Tibetan healing bowls has a very deep impact on every cell of the body. It vibrates each cell at the healing frequency thus deep cleansing with its healing sound.&nbsp;</p>\n<p>Some of the benefits of the Sound Spa is being able to Focus and be resilient., Optimism and calmness, Performance &amp; Productivity.</p>\n<p>Cowrks members gets to enjoy a massive 50% discount on their Spa services.</p>\n<p>So get off the couch and give your senses a treat and recharge your cells!</p>",
+            "redeem_details": "<p>Visit <a title=\"Google Maps Link\" href=\"https://www.google.co.in/maps/place/Srikam+Sound+Spa/@12.9791557,77.6450251,15z/data=!4m5!3m4!1s0x0:0xb3b0ff89e9b1eb0b!8m2!3d12.9791557!4d77.6450251\" target=\"_blank\" rel=\"noopener\">Srikam Sound Spa, Indiranagar</a> and avail 50% discount on their services.</p>\n<p>Do let us know how you felt or for any questions write to <a title=\"email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a></p>",
+            "company": "Srikam Sound Spa",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/srikam_38.png",
+            "start_date": "2017-11-22",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 20,
+                "name": "Spa And Wellness"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "short_description": "Transact on the most used and trusted platform of India. Paytm karo- we say!",
+            "full_description": "<p>PayTM karo is something everyone is used to by now and needs no introduction.</p>\n<p>But what you need to know are the range of benefits of being a Cowrks members and how you can reap em'</p>\n<p>Cowrks and PayTm joins hands to bring you-</p>\n<p>* No set up fee nor Annual fee</p>\n<p>* Collect payments off your website/app using gateway or wallet at Zero Transaction fee for the first 6 months or upto Rs.10,00,000 INR whichever is earlier.</p>\n<p>* Also avail cash back of Rs666 on flight tickets on a minimum 2 tickets booked through paytm. Each employee of your company gets to enjoy the cash back offer on flights for once.</p>\n<p>Cherry on the cake right?</p>",
+            "redeem_details": "<p>To avail the offer, send an email to <a title=\"email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a></p>",
+            "company": "PayTM",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/paytm_40.png",
+            "start_date": "2017-12-06",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 10,
+                "name": "Fintech"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "short_description": "Store, Back up, Secure. To do that, Get Drop Box.",
+            "full_description": "<p>There is always room for your business to grow. With more room comes more data, and more data means more back up and storage.</p>\n<p>Dropbox precisely addresses these concerns and lets you manage your DATA seamlessely. Every IT Manager loves Drop Box primarily for the same reason as it is easy to integrate into your business and get going. Never run out of space no matter how big the file, with Drop box there is always room for more.</p>\n<p>Cowrks and Drop Box brings to you a cool 10% discount on their standard and advanced version. Want more? Simply ask.</p>\n<p>For more info log into <a title=\"website\" href=\"https://www.dropbox.com/business\" target=\"_blank\" rel=\"noopener\">DropboxBusiness</a></p>",
+            "redeem_details": "<p>Reach out to&nbsp;<a title=\"Email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a> to avail the discounts and integrate Dropbox into your Business.</p>",
+            "company": "Dropbox Business",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/dropboxBusiness_42.png",
+            "start_date": "2017-12-07",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 1,
+                "name": "Cloud Storage"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "short_description": "Want to Growth Hack your Digital Strategy? Leave it to Growth Hackers!",
+            "full_description": "<p>Growth Hackers are a Digital Marketing Agency, obsessed with ROI, targeted acquisition &amp; building a brand. With over 20 years of cumulative expeience in Digital Marketing they are laser focused and got the eye for detail.</p>\n<p>You put forth the canvas, they paint a picture, with numbers. Having worked with the Industry bests in E-Commerce, IT &amp; Fashion, there is no stopping this young, dynamic team who basically stop at nothing. Be it SEO, Conversion rate optimisation, Paid marketing, bespoke growth strategy are only a slice of what they could do.&nbsp;</p>\n<p>For more info log into -<a title=\"Website\" href=\"http://www.growthhackers.digital\" target=\"_blank\" rel=\"noopener\">GrowthHackers</a></p>\n<p>Cowrks members enjoys 20% discount on their end to end services.</p>\n<p>So go ahead and give your Marketing a Jumpstart!</p>",
+            "redeem_details": "<p>Reach out to&nbsp;<a title=\"Email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a>&nbsp;to avail the offer and services.</p>",
+            "company": "Growth Hackers",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/growthHackers_43.png",
+            "start_date": "2017-12-14",
+            "end_date": "2018-12-31",
+            "category": {
+                "id": 2,
+                "name": "Digital Marketing"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "short_description": "Car servicing made easy.",
+            "full_description": "<p>Giving your car to service is a hassle, not unless you use Carpathy as your trusted service partner. Book through the app or website to get your car picked up and dropped. Choose from a range of services that your car would require at regular intervals to keep the machine in pristine conditions. All this to you at afforable costs and quality.</p>\n<p><strong>Cowrks and Carpathy brings members of Delhi NCR &amp; Bengaluru 20% discount on bookings &amp; 10% additonal on all packages.</strong></p>\n<p>Look through <a title=\"website\" href=\"http://www.carpathy.com\" target=\"_blank\" rel=\"noopener\">Carpathy</a> for more.</p>\n<p>Time to give your Car the shine!</p>",
+            "redeem_details": "<p>Use coupon code COWRKS to avail the discount.</p>\n<p>Flat 20% off + Additional 10% off on all packages. This offer cannot be clubbed with any other offer.<br />Prior appointment is compulsory for the customers to avail the offer.<br />This voucher is transferable but membership no. needs to be presented.<br />One coupon is valid for one vehicle only.<br />This voucher is valid for packages only.<br />No verbal commitment accepted.&nbsp;</p>\n<p>For more info email <a title=\"email \" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a></p>",
+            "company": "Carpathy",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/carpathy_67.png",
+            "start_date": "2018-04-02",
+            "end_date": "2018-12-10",
+            "category": {
+                "id": 9,
+                "name": "Transportation"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "short_description": " Eat Fit, GrowFit. Get upto 20% Discount!",
+            "full_description": "<div>Delicious food that helps you achieve all those health goals? You heard right!</div>\n<div>Improve your health with expert-planned meals from Grow Fit, and get the nutrition you need. Grow Fit offers specialised meal programs, designed by doctors and nutritionists to address specific health needs. Whether you're looking to lose fat, manage your PCOS or diabetes, or simply improve your overall health, Grow Fit helps you do that through scrumptious meals. With each meal designed by doctors and prepared by 5-star gourmet chefs, fitness never tasted this good!</div>\n<div><strong>As a CoWrks member, avail exclusive discounts up to 20% on Grow Fit's meal subscription plans.&nbsp;</strong></div>\n<div>Browse <a title=\"Website\" href=\"https://getgrowfit.com\" target=\"_blank\" rel=\"noopener\">GrowFit's</a> range of meal programs.</div>\n<div>CoWrks, it's time to Grow Fit!</div>",
+            "redeem_details": "<div>&nbsp;- Fresh Food single meal option/Packaged Food - Code: GRO15 - 15% discount</div>\n<div>&nbsp;- 7 Day subscription&nbsp; &nbsp;- Code: GRO10 - 10% Discount</div>\n<div>&nbsp;- 30 Day subscription - Code: GRO20 - 20% Discount</div>\n<div>&nbsp;</div>\n<div>Note: Fresh food single order(s) need to be placed before&nbsp;<span tabindex=\"0\" data-term=\"goog_1902699977\">8AM</span>&nbsp;(for lunch) and&nbsp;<span tabindex=\"0\" data-term=\"goog_1902699978\">2PM</span>&nbsp;(for dinner) for same day delivery &amp; can be placed previous day as well.</div>\n<div>For more details reach out to <a title=\"emal\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a></div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>",
+            "company": "GrowFit",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/growfit_65.png",
+            "start_date": "2018-03-26",
+            "end_date": "2018-11-28",
+            "category": {
+                "id": 8,
+                "name": "Food & Beverages"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "short_description": "Free your Power, Feel the pulse. Get to Cult Fit. Get Upto 25% extensions, now!",
+            "full_description": "<p>Cult.Fit is one of the coolest things to happen to Bangalore &amp; Delhi NCR. No kidding.</p>\n<p>Gear up and head to the nearest Cult.fit center, cause if aint you are missing out on some of the hottest new workouts in town. Get trained by certifed instructors on Boxing, Zumba, Strength &amp; Conditioning, Yoga and the Oh- so famous HRX workouts.</p>\n<p><strong>Cowrks &amp; Cult.Fit brings to you upto 25% extensions on your packs</strong>.</p>\n<p>Download their app on <a title=\"link\" href=\"https://itunes.apple.com/in/app/cure-fit/id1217794588?mt=8\" target=\"_blank\" rel=\"noopener\">IOS</a> &amp; <a title=\"link\" href=\"https://play.google.com/store/apps/details?id=fit.cure.android&amp;hl=en\" target=\"_blank\" rel=\"noopener\">Android</a> and work out of any center today.</p>\n<p>Love for fitness just got hotter!</p>\n<p>&nbsp;</p>",
+            "redeem_details": "<p>Buy 6 months or a 1Year pack of their app using&nbsp;</p>\n<p>Reach out <a title=\"email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a> for more info.</p>\n<p>T&amp;C- 15% extension on 3,6 &amp; 9 Months pack. 25% extension on 12 months pack.</p>",
+            "company": "Cult.Fit",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/curefit_73.png",
+            "start_date": "2018-04-26",
+            "end_date": "2019-04-23",
+            "category": {
+                "id": 20,
+                "name": "Spa And Wellness"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "short_description": "Workstation as a Service",
+            "full_description": "<p>Workstation as a Service. Yes, thats the in-thing now. At the speed at which the technology and the hardware space is growing, its hard to catch up at all times. Rent the latest hardware at a fraction of a cost and upgrade it with a new model or a specifications, simply by exchanging it.&nbsp;</p>\n<p>WaaS is the vibrant new hardware company that helps you and your team on the latest specifications so that work gets done faster, agile and more importantly reduce your hardware spend. Make outright purchases of Apple, Dell, Hp, Lenovo and many more at the prices you have never seen before and get multi brand support all at one place.</p>\n<p><strong>Cowrks &amp; WaaS brings to you discounts of more than 10% on your hardware requirements.</strong></p>\n<p>Be Tech Savvy!</p>",
+            "redeem_details": "<p>Email <a title=\"email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a> with the requirement for the best quote.</p>",
+            "company": "WaaS",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/WaaS (1)_63.png",
+            "start_date": "2018-03-23",
+            "end_date": "2018-11-21",
+            "category": {
+                "id": 22,
+                "name": "It Hardware"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "short_description": "Comedy Shows. Laugh. Drink- At 15% Discount.",
+            "full_description": "<p>There are all sorts of people. Happy people, Funny people, Fictional people, Silly people, Crazy people, creative people, lost people, awesome people.</p>\n<p>The people and Co. brings together all genres of people and feed food when you are a hungry monster and drinks when you are down and rotten and a stage to cry your hearts out and funny people pull your pants down! Don't believe us? You should pay a visit soon to enjoy the weirdness.</p>\n<p><strong>Cowrks and The People and Co. brings to you 15% discount on the bill and selected Comedy shows.</strong></p>",
+            "redeem_details": "<p>Flash your Cowrks ID before the bill to avail discounts.&nbsp;</p>\n<p>For reservations call - 7042913733</p>\n<p>More info- <a title=\"email \" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a></p>",
+            "company": "The People and Co.- Gurgaon",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/peopleAndCo_80.png",
+            "start_date": "2018-05-24",
+            "end_date": "2018-11-29",
+            "category": {
+                "id": 8,
+                "name": "Food & Beverages"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "short_description": "Rent Furniture & Appliances. At 12% discount!!",
+            "full_description": "<p>Moving into a new apartment? Feeling heavy on the wallet? Fret not.</p>\n<p>Rentickle helps you rent Furniture &amp; Appliances for your everyday use at affordable prices. Choose from a wide range of Sofas, tables, chairs, mattresses, refrigerators, TV's, Ovens, Phewww the list goes on.</p>\n<p>Check out <a title=\"website\" href=\"http://www.rentickle.com\" target=\"_blank\" rel=\"noopener\">Rentickle</a> for all that you want.</p>\n<p><strong>Cowrsks &amp; Rentickle brings to you First month off on the rent or 12% discount on every months rent.</strong></p>\n<p>Spoilt for choices?</p>",
+            "redeem_details": "<p>Use Coupon code&nbsp;CWK100 to avail 100% off on the first months rent. Max upto Rs1500.</p>\n<p>OR</p>\n<p>Use Coupon code- WRK12 for a 12% discount on every months rent.</p>\n<p>email&nbsp;<a title=\"email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a>&nbsp;for more details.</p>\n<div dir=\"auto\" style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\"><em>*not applicable on Air purifiers, Water purifiers, Air Coolers and DSLRs</em></div>\n<div dir=\"auto\" style=\"color: #222222; font-family: arial, sans-serif; font-size: 12.8px;\"><em>*minimum tenure 3 months* Both offers cannot be clubbed.</em></div>\n<p>&nbsp;</p>",
+            "company": "Rentickle",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/Rentickle_75.png",
+            "start_date": "2018-05-14",
+            "end_date": "2018-11-20",
+            "category": {
+                "id": 19,
+                "name": "Services"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "short_description": "Hire Design Talent Instantly. Now at 12% discount.",
+            "full_description": "<p>1thing is an AI based platform where companies can hire vetted design talent and collaborate with them in real time to design better products. The designers are vetted through a detailed process and come from varied backgrounds and experience from Zomato, Uber Etc.&nbsp;</p>\n<p>Collaborate on WorkSpace, 1thing's inhouse communication and collaboration platform so the two teams work as if they are an extended design team.</p>\n<p><strong>Cowrks and 1Thing provides a 12% discount on the platform.</strong></p>\n<p>Browse through&nbsp; <a title=\"website\" href=\"https://www.1thing.io/\" target=\"_blank\" rel=\"noopener\">1Thing</a> for more info.</p>",
+            "redeem_details": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Original Price- 2499/hr (Inclusive of GST)</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Cowrks Price- 2199/hr (Inclusive of GST)</span></p>\n<p>Email&nbsp;<a title=\"email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a>&nbsp;to avail the discount and service.</p>",
+            "company": "1Thing",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/1thing (1)_74.png",
+            "start_date": "2018-05-09",
+            "end_date": "2018-10-29",
+            "category": {
+                "id": 4,
+                "name": "Design & Technology"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "short_description": "Get your next personal loan super quick!",
+            "full_description": "<p>Finnable brings personal loans faster than ordering pizza!</p>\n<p>Finnable is a fintech start-up under license from RBI, with a goal to revolutionize lending industry in the country.&nbsp;At unbelievable interest rates for our members starting from 10.99% p.a from 50k to 10 lacs. Less than 3 minutes for loan approval, money in your bank account&nbsp;<span tabindex=\"0\" data-term=\"goog_450723336\">within 24 hours</span>.&nbsp;What more! get a FREE credit limit approved. So even if you don&rsquo;t need a loan right now, keep the credit limit handy in case of any emergency and get an instant disbursal when you need money.</p>\n<p><strong>Cowrks and Finnable gives you a cash back of Rs501 on your 1st EMI and get attractive interest rates as a Cowrks member!</strong></p>\n<p>Money issues sorted.</p>",
+            "redeem_details": "<p>Download &nbsp;<a title=\"app link\" href=\"https://play.google.com/store/apps/details?id=com.finnable.customer&amp;hl=en_IN\" target=\"_blank\" rel=\"noopener\">Finnable</a>&nbsp;(Android) to enjoy incredible Interest rates and the cashback.</p>\n<p>Email <a title=\"email\" href=\"mailto:alliances@cowrks.com\" target=\"_blank\" rel=\"noopener\">alliances@cowrks.com</a> for more info.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+            "company": "Finnable",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/finnable (1)_76.png",
+            "start_date": "2018-05-14",
+            "end_date": "2018-11-21",
+            "category": {
+                "id": 10,
+                "name": "Fintech"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 95,
+            "short_description": "20% off on all rides",
+            "full_description": "<p><strong>YOUR PREMIUM MOBILITY PARTNER!</strong></p>\n<p>Zen Luxe and CoWrks brings to you a luxury memorable experience. Be it corporate meetings, personal trips or that special occasion to celebrate life with your significant other, you can now ride in style with <a href=\"http://www.zenluxe.in/landing/zenluxe-cowrks-lp.html\">Zen Luxe</a>.&nbsp;Ride in Luxury with the latest Audi and Jaguar high-performance models.</p>\n<p>Avail the Early Bird Offer -&nbsp;One complimentary ride equivalent to the first booking for the Cowrks members.&nbsp;Offer valid till October 31, 2018.</p>",
+            "redeem_details": "<p>One click and call away - Use <a href=\"http://www.zenluxe.in/landing/zenluxe-cowrks-lp.html\">this landing page</a> to avail the exclusive 20% offer on all rides.</p>",
+            "company": "Zen Luxe",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/Webp.net-resizeimage (1)_95.png",
+            "start_date": "2018-09-25",
+            "end_date": "2019-12-31",
+            "category": {
+                "id": 9,
+                "name": "Transportation"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "short_description": "Turn Weekday Blues to Happy Reds!",
+            "full_description": "<p>Yes, Box8 is in the house and is wanting to satisfy your tummy cravings to a whole new level. There's some thing for everybody in this BOX. There' the signature All in one meals or the affordable meals for 2. And there is Oh, you cant go wrong with Biriyani options to Salads for the health freaks and whole range of Desserts for the not so conscious ones. So why wait?</p>\n<p>Cowrks and BOX8 gives you a whopper&nbsp;<strong style=\"font-family: Arial, Helvetica, sans-serif; font-size: small;\"><em>100 OFF 248 </em></strong>and&nbsp;<em style=\"font-family: Arial, Helvetica, sans-serif; font-size: small;\"><strong>200</strong></em><strong style=\"font-family: Arial, Helvetica, sans-serif; font-size: small;\"><em>&nbsp;OFF 398</em></strong>.&nbsp;</p>\n<p>Aint that satisfying now?</p>",
+            "redeem_details": "<div>1.Sign up / login to&nbsp;<a href=\"http://www.box8.in/\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.box8.in/&amp;source=gmail&amp;ust=1518537619799000&amp;usg=AFQjCNEiVCSKPPk1xCSTIefE7QLpfz1BGg\">www.box8.in</a>&nbsp;or download the Box8 app.</div>\n<div>2.Select items to the cart&nbsp;</div>\n<div>3.Use&nbsp;<strong>COWRKS100</strong>&nbsp;to get 100 OFF on min order of INR 248 OR Use&nbsp;<strong>COWRKS200</strong>&nbsp;to get 200 OFF on min order of INR 398.</div>\n<div>&nbsp;</div>\n<p>PS- This is specially curated for Cowrks members and is applicable to Mumbai, Bangalore &amp; Gurgaon locations!</p>\n<p>Not Valid on Sides, Meal for 2, Party, Ice creams, Drinks &amp; Desserts Categories.</p>",
+            "company": "BOX8",
+            "published": true,
+            "logo": "https://cdn.cowrks.com/alliance/box8_52.png",
+            "start_date": "2018-02-12",
+            "end_date": "2019-11-21",
+            "category": {
+                "id": 8,
+                "name": "Food & Beverages"
+            },
+            "locations": [
+                {
+                    "id": 1,
+                    "name": "Bengaluru"
+                }
+            ]
+        }
+    ]
+}
