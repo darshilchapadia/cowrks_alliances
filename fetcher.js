@@ -55,8 +55,12 @@ var Fetcher = function(url, reloadInterval, encoding) {
 				}
 			}
 			else{
-				// var data = JSON.parse(body).data.alliances
-				processData(JSON.parse(body).data.alliances)
+				if(resp.statusCode !== 200){
+					processData(staticData.alliances)
+				}
+				else{
+					processData(JSON.parse(body).data.alliances)
+				}
 			}
 		});
 

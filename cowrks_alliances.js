@@ -13,7 +13,7 @@ Module.register("cowrks_alliances",{
 	defaults: {
 		feeds: [
 			{
-				url: "http://127.0.0.1:8000/alliances",
+				url: "http://devapi.cowrks.info/connect/alliances",
 				encoding: "UTF-8" //ISO-8859-1
 			}
 		],
@@ -114,7 +114,7 @@ Module.register("cowrks_alliances",{
 			if (this.config.showDescription) {
 				var description = document.createElement("img");
 				description.className = "small light";
-				description.height = 200
+				description.height = 147
 				description.width = 300
 				description.src = this.alliances[this.activeItem].url;
 				wrapper.appendChild(description);
